@@ -1,0 +1,25 @@
+main{
+    
+}
+
+#slide{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url("images/hm1.png");
+    background-size: cover;
+    animation: slider 9s infinite linear;
+}
+
+@keyframes slider{
+    0%{
+        background-image: url("images/hm2.png");
+    }
+    35%{
+        background-image: url("images/hm3.png");
+    }
+    75%{
+        background-image: url("images/hm4.jpg");
+    }
+}
