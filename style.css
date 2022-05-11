@@ -18,16 +18,24 @@ main{
     align-items: center;
     transition: 0.6s;
     z-index: 100000;
+    font-size: 20px;
 }
 
 .panel .logo{
     position: relative;
     transition: 0.6s;
+    color: #fff;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: 500px;
+    margin-right: 65%;
 }
 
-.panel .logo img{
-    width: 20%;
+
+.panel img{
+    width: 5%;
 }
+
 
 .panel ul{
     position: relative;
@@ -106,4 +114,37 @@ main{
     100%{
         left: -400%;
     }
+}
+
+.content{
+    text-align: center;
+    color: #fff;
+}
+
+
+.content .intr p{
+    width: 500px;
+    margin: auto;
+}
+
+.content .intr{
+    padding: 150px;
+}
+
+.content .nws{
+    background-image: url("images/nws.jpg");
+    background-size: cover;
+    padding: 200px;
+}
+
+.content .wrld{
+    background-image: url("images/wrld2.jpg");
+    background-size: cover;
+    padding: 200px;
+}
+
+.content .gm{
+    background-image: url("images/gm2.jpg");
+    background-size: cover;
+    padding: 200px;
 }
