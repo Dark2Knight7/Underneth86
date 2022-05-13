@@ -189,7 +189,7 @@ main{
 }
 
 .content a:hover{
-    background-color: rgba(255, 255, 255, 0.459);
+    background-color: transparent;
 }
 
 .content p{
@@ -313,4 +313,206 @@ footer{
 }
 .seasons .frth{
     color: rgb(237, 198, 15);
+}
+
+
+.sprngcontent .wintr p{
+    width: 550px;
+    margin: auto;
+}
+
+.sprngcontent .wintr{
+    padding: 150px;
+}
+
+.sprngcontent h1{
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 4px solid rgb(237, 198, 15);
+    width: 600px;
+}
+
+.sprngcontent{
+    text-align: center;
+    color: #fff;
+}
+
+.sprngcontent p{
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.sprngcontent .wintfracs{
+    background-image: url("images/sprngband.jpg");
+    background-size: cover;
+    padding: 200px;
+    border-top: 4px solid rgb(237, 198, 15);
+}
+
+.sprngcontent .winthaz{
+    background-image: url("images/ano.jpg");
+    background-size: cover;
+    padding: 200px;
+}
+
+.sprngcontent .wintmuts{
+    background-image: url("images/sprngmut.png");
+    background-size: cover;
+    padding: 200px;
+    border-bottom: 4px solid rgb(237, 198, 15);
+}
+
+.smrcontent .wintr p{
+    width: 550px;
+    margin: auto;
+}
+
+.smrcontent .wintr{
+    padding: 150px;
+}
+
+.smrcontent h1{
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 4px solid rgb(237, 198, 15);
+    width: 600px;
+}
+
+.smrcontent{
+    text-align: center;
+    color: #fff;
+}
+
+.smrcontent p{
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.smrcontent .wintfracs{
+    background-image: url("images/smmrfir.jpg");
+    background-size: cover;
+    padding: 200px;
+    border-top: 4px solid rgb(237, 198, 15);
+}
+
+.smrcontent .winthaz{
+    background-image: url("images/smrhaz.jpg");
+    background-size: cover;
+    padding: 200px;
+}
+
+.smrcontent .wintmuts{
+    background-image: url("images/smrmut.jpg");
+    background-size: cover;
+    padding: 200px;
+    border-bottom: 4px solid rgb(237, 198, 15);
+}
+
+.atmcontent .wintr p{
+    width: 550px;
+    margin: auto;
+}
+
+.atmcontent .wintr{
+    padding: 150px;
+}
+
+.atmcontent h1{
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 4px solid rgb(237, 198, 15);
+    width: 600px;
+}
+
+.atmcontent{
+    text-align: center;
+    color: #fff;
+}
+
+.atmcontent p{
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.atmcontent .wintfracs{
+    background-image: url("images/atmchild.jpg");
+    background-size: cover;
+    padding: 200px;
+    border-top: 4px solid rgb(237, 198, 15);
+}
+
+.atmcontent .winthaz{
+    background-image: url("images/atmsurv.jpg");
+    background-size: cover;
+    padding: 200px;
+}
+
+.atmcontent .wintmuts{
+    background-image: url("images/atmmute.jpg");
+    background-size: cover;
+    padding: 200px;
+    border-bottom: 4px solid rgb(237, 198, 15);
+}
+
+.strintr{
+    margin: auto;
+    padding: 150px;
+    border-bottom: 4px solid rgb(237, 198, 15);
+}
+
+
+.gmcontent a:hover{
+    background-color: transparent;
+}
+
+.gmcontent h1{
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 4px solid rgb(237, 198, 15);
+    width: 600px;
+}
+
+.gmcontent{
+    text-align: center;
+    color: #fff;
+}
+
+.gmcontent p{
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.gmcontent .wrd{
+    background-image: url("images/map.jpg");
+    background-size: cover;
+    padding: 200px;
+    border-top: 4px solid rgb(237, 198, 15);
+}
+
+.gmcontent .weps{
+    background-image: url("images/wpns.png");
+    background-size: cover;
+    padding: 200px;
+}
+
+.gmcontent .char{
+    background-image: url("images/chars.jpg");
+    background-size: cover;
+    padding: 200px;
+    border-bottom: 4px solid rgb(237, 198, 15);
+}
+
+.gmcontent .muts{
+    background-image: url("images/mtnts.png");
+    background-size: cover;
+    padding: 200px;
+    border-bottom: 4px solid rgb(237, 198, 15);
 }
